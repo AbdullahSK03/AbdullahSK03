@@ -10,7 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working an ****
+<-- 
+🔭 I’m currently working an **** 
+-->
  
  🌱 I’m currently learning **Express, Node, MongoDB, React, Tailwind, React Native Expo**
 
